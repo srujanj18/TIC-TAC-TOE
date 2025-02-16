@@ -1,2 +1,24 @@
-# TIC-TAC-TOE
-#ProdigyInfotech  Welcome to the Tic-Tac-Toe Game! This is a simple yet engaging web-based implementation of the classic Tic-Tac-Toe game, built using HTML, CSS, and JavaScript. The game features a modern and interactive graphical user interface (GUI) with smooth animations and responsive design.
+# Tic-Tac-Toe Game
+
+A classic implementation of the Tic-Tac-Toe game using HTML, CSS, and JavaScript.
+
+## Features
+- Player turn tracking (X vs O)
+- Win condition detection
+- Game reset functionality
+- Responsive grid design
+- Real-time game status updates
+
+ Open `index.html` in your web browser
+
+## How to Play
+1. Click any cell to place your mark (X or O)
+2. Players alternate turns
+3. First player to get 3 in a row (horizontal, vertical, or diagonal) wins
+4. Click "Reset Game" to start a new match
+
+## Technologies Used
+- HTML5
+- CSS3 (Flexbox/Grid)
+- Vanilla JavaScript
+
